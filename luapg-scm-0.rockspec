@@ -2,7 +2,6 @@ package = "luapg"
 version = "scm-0"
 source = {
    url = "git+https://github.com/maca134/luapg.git",
-   dir = "luapg-0.0.1"
 }
 description = {
    summary  = "Parse generator for Lua",
